@@ -1,5 +1,14 @@
-# Offset-to-Scale
+# Rescaler Pro
 
-This simple plugin makes converting a UI object to scale extremely easy!
+Rescale Pro is a plugin that helps make designing user interfaces faster and easier!
 
-All you have to do in install the plugin, click on the UI object you want to convert and click the plugin! Then, your GUI will be converted to use scale which rescales to all screen resolutions!
+It allows you to convert between offset and scale (or scale and offset) as simple as a click of a button. Find the element(s) you want to convert, open Rescale Pro, and simply convert the elements to offset or scale!
+
+Features
+- Convert from scale to offset
+- Convert from offset to scale
+- Convert children of elements
+- Update checker
+- Intuitive UI
+
+Version 1.4.0
